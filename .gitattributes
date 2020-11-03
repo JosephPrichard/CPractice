@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.cpb linguist-detectable=false
+*.cbp linguist-detectable=false
 *.cmake linguist-detectable=false
 *.depend linguist-detectable=false
 *.layout linguist-detectable=false
