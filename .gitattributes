@@ -5,4 +5,3 @@
 *.cmake linguist-detectable=false
 *.depend linguist-detectable=false
 *.layout linguist-detectable=false
-*/MakeFile linguist-detectable=false
