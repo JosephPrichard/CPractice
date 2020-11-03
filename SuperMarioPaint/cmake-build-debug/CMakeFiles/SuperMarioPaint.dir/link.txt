@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SuperMarioPaint.dir/objects.a
-C:\mingw64\bin\ar.exe cr CMakeFiles\SuperMarioPaint.dir/objects.a @CMakeFiles\SuperMarioPaint.dir\objects1.rsp
-C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\SuperMarioPaint.dir/objects.a -Wl,--no-whole-archive  -o SuperMarioPaint.exe -Wl,--out-implib,libSuperMarioPaint.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SuperMarioPaint.dir\linklibs.rsp

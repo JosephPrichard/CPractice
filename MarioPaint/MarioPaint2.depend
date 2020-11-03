@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1599948856 source:c:\users\joseph\documents\cppprojects\mariopaint2\main.cpp
-	<iostream>
-	<fstream>
-	<cctype>
-	<string.h>
-	<cmath>
-
