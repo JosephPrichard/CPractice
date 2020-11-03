@@ -16,6 +16,9 @@ Parse a polynomial to a LinkedList, sort the Linked list with Merge Sort, then d
 ### Queue
 A Queue implemented in C.
 
+### CLinkedList
+A LinkedList implemented in C.
+
 ### SortSearch
 Various sorting algorithms: Quick, Insertion, Bubble, Selection, implemented in C++.
 
