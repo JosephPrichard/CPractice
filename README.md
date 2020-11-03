@@ -23,7 +23,7 @@ A LinkedList implemented in C.
 Various sorting algorithms: Quick, Insertion, Bubble, Selection, implemented in C++.
 
 ### SortSearch6C
-Bubble and Selection sort in C.
+Sorting a LinkedList with Bubble and Selection sort in C.
 
 
 
