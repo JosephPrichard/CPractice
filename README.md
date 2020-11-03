@@ -1,5 +1,5 @@
 # CS1337
-The best Projects I completed for CS1337.
+The best Projects I completed for CS1337. All code was uploaded after the project was due.
 
 ### Mario Paint
 Parse a series of commands and draw ASCII art to a file.
