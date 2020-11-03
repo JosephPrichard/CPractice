@@ -11,7 +11,7 @@ Solve a system of equations stored in a matrix using pointer arithmetic to trave
 Parse a series of commands and draw to a 50x50 Linked Grid (linked with pointers).
 
 ### WarioEconomics
-Parse a polynomial to a LinkedList, sort the Linked list with Merge Sort, then differentiate the polynomial.
+Parse a polynomial to a LinkedList, sort the Linked list with Merge Sort, then differentiate the LinkedList (the polynomial).
 
 ### Queue
 A Queue implemented in C.
