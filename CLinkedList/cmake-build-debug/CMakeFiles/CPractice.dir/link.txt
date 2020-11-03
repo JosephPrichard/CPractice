@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CPractice.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\CPractice.dir/objects.a @CMakeFiles\CPractice.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\CPractice.dir/objects.a -Wl,--no-whole-archive  -o CPractice.exe -Wl,--out-implib,libCPractice.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CPractice.dir\linklibs.rsp
