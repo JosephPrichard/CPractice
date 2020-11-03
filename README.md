@@ -1,4 +1,4 @@
-# CS1337
+# PracticeC
 Projects I completed to practice C++ and C.
 
 ### Queue
