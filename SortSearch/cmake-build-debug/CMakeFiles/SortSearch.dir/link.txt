@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SortSearch.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\SortSearch.dir/objects.a @CMakeFiles\SortSearch.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\SortSearch.dir/objects.a -Wl,--no-whole-archive  -o SortSearch.exe -Wl,--out-implib,libSortSearch.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SortSearch.dir\linklibs.rsp

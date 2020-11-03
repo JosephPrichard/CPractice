@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602959178 source:c:\users\joseph\documents\cppprojects\crossstreams\main.cpp
+	<iostream>
+	<fstream>
+	<memory>
+	<iomanip>
+

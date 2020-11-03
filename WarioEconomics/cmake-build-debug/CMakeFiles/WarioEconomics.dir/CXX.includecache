@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Joseph/CLionProjects/WarioEconomics/LList.cpp
+LList.h
+C:/Users/Joseph/CLionProjects/WarioEconomics/LList.h
+
+C:/Users/Joseph/CLionProjects/WarioEconomics/LList.h
+iostream
+-
+Node.h
+C:/Users/Joseph/CLionProjects/WarioEconomics/Node.h
+
+C:/Users/Joseph/CLionProjects/WarioEconomics/Node.h
+iostream
+-
+
