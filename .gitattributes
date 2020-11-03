@@ -2,3 +2,5 @@
 * text=auto
 *.cpb linguist-detectable=false
 *.cmake linguist-detectable=false
+*.depend linguist-detectable=false
+*.layout linguist-detectable=false
