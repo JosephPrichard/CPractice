@@ -1,4 +1,4 @@
-# PracticeC
+# CPractice
 Projects I completed to practice C++ and C.
 
 ### Queue
