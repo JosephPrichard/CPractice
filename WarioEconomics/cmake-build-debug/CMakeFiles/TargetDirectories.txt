@@ -1,3 +1,0 @@
-C:/Users/Joseph/CLionProjects/WarioEconomics/cmake-build-debug/CMakeFiles/WarioEconomics.dir
-C:/Users/Joseph/CLionProjects/WarioEconomics/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Joseph/CLionProjects/WarioEconomics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
