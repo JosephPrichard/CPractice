@@ -1,5 +1,5 @@
 # CPractice
-Projects I completed to practice C++ and C.
+Some projects in C++ and C.
 
 ### Queue
 A Queue implemented in C.
